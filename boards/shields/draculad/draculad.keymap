@@ -10,8 +10,6 @@
 #include <dt-bindings/zmk/outputs.h>
 #include <dt-bindings/zmk/pointing.h>
 
-&caps_word
-
 / {
     keymap {
         compatible = "zmk,keymap";
