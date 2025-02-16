@@ -1,5 +1,4 @@
-#include <physical_layouts.dtsi>
-#include "draculad.dtsi"
+#include <physical_layouts.dtsi>f
 
 / {
     physical_layout0: physical_layout_0 {
