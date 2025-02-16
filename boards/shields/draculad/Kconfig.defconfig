@@ -1,7 +1,7 @@
 if SHIELD_DRACULAD_LEFT
 
 config ZMK_KEYBOARD_NAME
-    default "DracuLad Left"
+    default "BP DracuLad"
 
 config ZMK_SPLIT_BLE_ROLE_CENTRAL
     default y
