@@ -11,7 +11,6 @@
 #include <dt-bindings/zmk/pointing.h>
 
 &caps_word
-&studio_unlock
 
 / {
     keymap {
